@@ -1,58 +1,40 @@
-# Política de Privacidade do Bot Talinho
+# 📌 Sobre a Cheetah Network  
 
-## 1. Introdução
+A **Cheetah Network** é uma empresa de tecnologia fundada no Brasil com a missão de oferecer soluções inovadoras e personalizadas que conectam pessoas e transformam ideias em realidade. Ao longo de um ano de trajetória, conquistamos uma reputação por nossa agilidade, excelência e compromisso com resultados.  
 
-Bem-vindo à Política de Privacidade do Bot Talinho ("Bot"). Esta política explica como coletamos, usamos e protegemos as informações dos usuários que interagem com o Bot no Discord.
+## 🚀 O Que Fazemos  
 
-## 2. Informações que Coletamos
+Com um portfólio diversificado de serviços, ajudamos empresas e comunidades digitais a alcançar novos patamares de eficiência e inovação:  
 
-### 2.1 Informações de Identificação Pessoal
-Podemos coletar identificadores de usuário do Discord, como IDs de usuário e nomes de usuário, para fornecer e melhorar os serviços do Bot.
+### 🎯 **Programação de Bots para Discord**  
+Desenvolvemos bots inteligentes e multifuncionais para automatizar tarefas, melhorar a moderação de servidores e criar experiências interativas para comunidades digitais.  
 
-### 2.2 Mensagens de Comando
-Coletamos o conteúdo das mensagens de comando enviadas ao Bot para processar e responder adequadamente.
+### 🌐 **Desenvolvimento de Websites**  
+Criamos sites modernos, responsivos e otimizados, oferecendo uma experiência de usuário fluida e alinhada às necessidades de cada cliente. Nossos sites são projetados para garantir desempenho, acessibilidade e segurança.  
 
-## 3. Uso das Informações
+### 🎨 **Design Gráfico**  
+Produzimos materiais visuais de alta qualidade para marcas e empresas, desde logotipos até campanhas visuais completas. Acreditamos que o design é um pilar essencial para a identidade e a presença digital.  
 
-### 3.1 Fornecimento de Serviços
-Usamos as informações coletadas para fornecer, operar e manter as funcionalidades do Bot.
+### 💡 **Soluções Customizadas**  
+Entendemos que cada projeto é único. Por isso, oferecemos consultoria e desenvolvimento sob medida para empresas e comunidades, integrando tecnologia e inovação para resolver desafios específicos.  
 
-### 3.2 Melhoria do Serviço
-Podemos utilizar as informações coletadas para melhorar o desempenho e a funcionalidade do Bot, bem como para desenvolver novos recursos.
+---
 
-## 4. Compartilhamento de Informações
+## 🌟 Nossa Filosofia  
 
-### 4.1 Terceiros
-Não compartilhamos informações de identificação pessoal com terceiros, a menos que exigido por lei ou com o consentimento do usuário.
+Na Cheetah Network, nossos valores são a base de tudo o que fazemos:  
 
-### 4.2 Aplicação da Lei
-Podemos divulgar informações coletadas se exigido por lei ou em resposta a solicitações legais de autoridades públicas.
+- **Agilidade e Velocidade:** Atuamos com rapidez, sem comprometer a qualidade, para entregar soluções dentro dos prazos estabelecidos.  
+- **Inovação Constante:** Investimos em novas tecnologias e metodologias para oferecer sempre o que há de mais avançado.  
+- **Conexão de Pessoas:** Construímos comunidades e relações de longo prazo por meio de soluções que criam oportunidades e crescimento.  
+- **Foco em Resultados:** Estamos comprometidos em gerar valor real para nossos clientes e parceiros, com soluções que fazem a diferença.  
 
-## 5. Segurança das Informações
+---
 
-### 5.1 Medidas de Segurança
-Implementamos medidas de segurança apropriadas para proteger contra acesso não autorizado, alteração, divulgação ou destruição das informações dos usuários.
+## 🌍 Nossa Presença  
 
-## 6. Retenção de Dados
+Desde nossa fundação, ampliamos nossa atuação e conquistamos uma posição sólida no mercado de tecnologia. Nossa equipe é composta por profissionais apaixonados e comprometidos com a excelência.  
 
-### 6.1 Período de Retenção
-Mantemos as informações coletadas pelo tempo necessário para fornecer os serviços do Bot ou conforme exigido por lei.
+## 🔗 Canais de Contato  
 
-### 6.2 Exclusão de Dados
-Os usuários podem solicitar a exclusão de suas informações entrando em contato conosco através do nosso canal oficial de suporte no Discord.
-
-## 7. Direitos dos Usuários
-
-### 7.1 Acesso e Correção
-Os usuários têm o direito de acessar e corrigir suas informações pessoais coletadas pelo Bot.
-
-### 7.2 Retirada de Consentimento
-Os usuários podem retirar seu consentimento para a coleta e uso de suas informações a qualquer momento, o que pode resultar na limitação de acesso às funcionalidades do Bot.
-
-## 8. Alterações nesta Política
-
-Reservamos o direito de atualizar esta Política de Privacidade a qualquer momento. Notificaremos os usuários sobre qualquer alteração significativa através do canal oficial do bot ou via atualização neste documento.
-
-## 9. Contato
-
-Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do nosso canal oficial de suporte no Discord.
+- [Instagram Oficial](https://instagram.com/cheetah_network)  
